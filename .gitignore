@@ -1,0 +1,17 @@
+# Ignorar todos los archivos de video
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignorar la carpeta privado y su contenido
+privado/
+
+# Ignorar ficheros específicos
+db.sql
+passwords.txt
+
+# Ignorar archivos comprimidos
+*.zip
+*.rar
+*.7z
